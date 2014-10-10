@@ -12,6 +12,10 @@ body {
   padding-bottom: 20px;
 }
 
+body {
+  position: relative;
+}
+
 .intro{
 	padding-left: 40px;
 	padding-right: 40px;
@@ -26,6 +30,7 @@ color:#505050;
 }
 
 .logo{
+	margin-top: -55px;
 	margin-bottom:-55px;
 }
 
