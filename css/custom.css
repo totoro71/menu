@@ -4,13 +4,35 @@
 
 body{
 	background-color: #F9F4E1;
+	font-family: georgia;
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.intro{
+	padding-left: 40px;
+	padding-right: 40px;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 color:#505050;
 }
 
-
 .container2{
 	margin: 80px;
+}
+
+.logo{
+	margin-bottom:-55px;
+}
+
+.navbar{
+	font-family: georgia
+}
+
+.price{
+	color:#0489B1;
 }
