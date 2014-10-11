@@ -12,13 +12,15 @@ body {
   padding-bottom: 20px;
 }
 
-body {
-  position: relative;
-}
 
 .intro{
 	padding-left: 40px;
 	padding-right: 40px;
+}
+
+.storehistory{
+	padding-left: 60px;
+	padding-right: 60px;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
