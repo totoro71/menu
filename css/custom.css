@@ -12,10 +12,17 @@ body {
   padding-bottom: 20px;
 }
 
-
 .intro{
 	padding-left: 40px;
 	padding-right: 40px;
+
+}
+
+.carouselpic{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 75px;
+
 }
 
 .storehistory{
